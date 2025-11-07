@@ -1,4 +1,4 @@
-# In the Space of Possible Minds
+# OddKins: In the Space of Possible Minds
 
 ![PXL_20251029_191621020](https://github.com/user-attachments/assets/07b2a52b-1c66-4d98-9674-60b602a80b35)  
 *Prototype installation at the Innovation Hub, University of Florida — October 29, 2025.*
